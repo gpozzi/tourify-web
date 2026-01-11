@@ -1,0 +1,5 @@
+{
+  "name": "API Control Center",
+  "description": "A centralized dashboard to monitor API consumption (OpenAI, ElevenLabs, Google Places), track user metrics, and analyze costs for your Android app backend.",
+  "requestFramePermissions": []
+}
